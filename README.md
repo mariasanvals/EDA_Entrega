@@ -1,2 +1,4 @@
 # EDA_Entrega
-Análisis exploratorio de datos sobre autoconcepto sexual en base al género y grupos de edad
+Análisis exploratorio de datos sobre autoconcepto sexual en base al género y grupos de edad  
+
+Este proyecto se centra en analizar el **autoconcepto sexual de hombres y mujeres desde la adolescencia hasta la vejez**. A través del instrumento de evaluación sexológico Multidimensional Sexual Self-Concept Questionnaire (MSSCQ), diseñado por el Dr. William E. Snell en 1995, se estudian, a través de 100 items, 20 aspectos de la sexualidad humana: ansiedad sexual, autoeficacia sexual, conciencia sexual, motivación para evitar prácticas sexuales de riesgo, control sexual por azar/suerte, preocupación sexual, asertividad sexual, optimismo sexual, autoinculpación por problemas sexuales, supervisión sexual, motivación sexual, gestión de problemas sexuales, autoestima sexual, satisfacción sexual, control sexual por parte de otros, autoesquemas sexuales, miedo al sexo, prevención de problemas sexuales, depresión sexual, control sexual interno. 
